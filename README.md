@@ -30,6 +30,4 @@ The main objective of this project was to tackle a complex business or operation
    * Comparing model results to determine the best-performing algorithm and translating findings into strategic recommendations.
 
 ---
-👩‍💻 Author
-**Daniela Magaña Arana** 
-[LinkedIn](https://www.linkedin.com/in/daniela-maga%C3%B1a-arana) | [GitHub](https://github.com/danielamag98)
+
